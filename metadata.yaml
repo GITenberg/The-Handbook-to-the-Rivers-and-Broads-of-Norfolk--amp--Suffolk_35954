@@ -1,0 +1,28 @@
+_repo: The-Handbook-to-the-Rivers-and-Broads-of-Norfolk--amp--Suffolk_35954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35954-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davies, G. Christopher (George Christopher)
+    alias: Davies, George Christopher
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '37998'
+    url: http://www.gutenberg.org/2009/agents/37998
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Suffolk (England) -- Description and travel'
+- !lcsh 'Norfolk (England) -- Description and travel'
+title: The Handbook to the Rivers and Broads of Norfolk & Suffolk
+url: http://www.gutenberg.org/ebooks/35954
